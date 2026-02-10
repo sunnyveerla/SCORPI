@@ -2,8 +2,6 @@
   <h1><img width="832" height="176" alt="SCORPI_Logo_image_5" src="https://github.com/user-attachments/assets/e42eb47e-6961-47ab-80b0-4b8284608620" /></h1> 
 </div>
 
-
-
 **SCORPI_GEL** is a Java-based tool for processing genomic data using VCF files or catalogue (SBS) files to predict HRD, APOBEC, and MMRD, with built-in support for downloading and indexing reference genomes such as hg38. <br>
 
 **Download and index reference genome FASTA files**<br>
