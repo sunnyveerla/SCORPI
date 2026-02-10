@@ -1,6 +1,7 @@
 # SCORPI "COMING SOON:::::"
-![SCORPI_logo](https://github.com/user-attachments/assets/1103f6a1-cdab-4f7a-9c77-1d8bbcddbf18)
 
+
+<img width="701" height="263" alt="SCORPI_Logo_image" src="https://github.com/user-attachments/assets/5fd5d18d-f900-425c-8ab2-f0e692e25539" />
 
 java -jar -Xmx16g SCORPI.jar Download hg38 /home/sunny/Sunnyveerla/Projects/SV_JS/
 
