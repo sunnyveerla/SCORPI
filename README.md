@@ -9,7 +9,7 @@
 java -jar -Xmx4g SCORPI_GEL_v2.jar Download hg38 /home/sunny/Sunnyveerla/Projects/ReferenceGenome/
 
 **Run SCORPI Using a folder containing VCF files**
-java -jar -Xmx200g SCORPI_GEL_v2.jar VCF /home/sunny/Sunnyveerla/Projects/ReferenceGenome/hg38/hg38.fa /home/sunny/Sunnyveerla/Projects/SCORPI_GEL/Test/test_new/ TRUE /home/sunny/Sunnyveerla/Projects/SCORPI_GEL/Test/
+java -jar -Xmx4g SCORPI_GEL_v2.jar VCF /home/sunny/Sunnyveerla/Projects/ReferenceGenome/hg38/hg38.fa /home/sunny/Sunnyveerla/Projects/SCORPI_GEL/Test/test_new/ TRUE /home/sunny/Sunnyveerla/Projects/SCORPI_GEL/Test/
 
 **Run SCORPI Using a Catalogue (SBS) File**
-java -jar -Xmx200g SCORPI_GEL_v2.jar SBS /home/sunny/Sunnyveerla/Projects/SCORPI_GEL/Test/rndm_2000snvs_r10_contextCountFile_complete_context.txt /home/sunny/Sunnyveerla/Projects/SCORPI_GEL/Test/
+java -jar -Xmx4g SCORPI_GEL_v2.jar SBS /home/sunny/Sunnyveerla/Projects/SCORPI_GEL/Test/rndm_2000snvs_r10_contextCountFile_complete_context.txt /home/sunny/Sunnyveerla/Projects/SCORPI_GEL/Test/
